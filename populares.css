@@ -78,3 +78,12 @@
     border: none;
     color: #333333;
 }
+
+/**.destaques__categorias___item {
+    text-align: justify;
+}*/
+
+.gamer__destaque {
+    font-size: .8rem;
+    text-align: center;
+}
